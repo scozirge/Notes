@@ -1,0 +1,2 @@
+adb logcat -s Unity
+adb logcat -s Unity > abc.txt
