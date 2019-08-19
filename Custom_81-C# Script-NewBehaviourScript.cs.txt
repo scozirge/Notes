@@ -2,20 +2,22 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class #SCRIPTNAME# : MonoBehaviour
-{
-    #region Public Field
-    #endregion
-	
-    #region Public Field
-    #endregion
+namespace #NAMESPACE# {
+	public class #SCRIPTNAME# : MonoBehaviour
+	{
+		#region Public Field
+		#endregion
+		
+		#region Private Field
+		#endregion
 
-    #region MonoBehaviour Func
-    #endregion
-	
-    #region Public Func
-    #endregion
-	
-    #region Private Func
-    #endregion
+		#region MonoBehaviour Func
+		#endregion
+		
+		#region Public Func
+		#endregion
+		
+		#region Private Func
+		#endregion
+	}
 }
